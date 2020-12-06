@@ -1,1 +1,1 @@
-This is offline content
+This is local, offline content
